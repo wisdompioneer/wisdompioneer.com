@@ -8,7 +8,6 @@ This is the official website for Wisdom Pioneer Ltd, a leading cloud technology 
 - **Company Number:** 11745817
 - **Established:** January 2, 2019
 - **Type:** Private Limited Company
-- **Director:** Sandeep Gumudelli
 - **Email:** admin@wisdompioneer.com
 - **Website:** wisdompioneer.com
 
